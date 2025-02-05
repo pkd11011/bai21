@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Pham Do\\source\\repos\\Api1\\api1\\wwwroot\\pkd.html",
+      "PackagePath": "staticwebassets\\pkd.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.api1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.api1.props",
+      "PackagePath": "build\\api1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.api1.props",
+      "PackagePath": "buildMultiTargeting\\api1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.api1.props",
+      "PackagePath": "buildTransitive\\api1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

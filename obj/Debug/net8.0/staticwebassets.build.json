@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "rYWA6rl5jbi2+H4Lwc34NuURxp+6gXmSZvRgS+lnGNo=",
+  "Source": "api1",
+  "BasePath": "_content/api1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "api1\\wwwroot",
+      "Source": "api1",
+      "ContentRoot": "C:\\Users\\Pham Do\\source\\repos\\Api1\\api1\\wwwroot\\",
+      "BasePath": "_content/api1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Pham Do\\source\\repos\\Api1\\api1\\wwwroot\\pkd.html",
+      "SourceId": "api1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Pham Do\\source\\repos\\Api1\\api1\\wwwroot\\",
+      "BasePath": "_content/api1",
+      "RelativePath": "pkd.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pkd.html"
+    }
+  ]
+}
